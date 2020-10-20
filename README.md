@@ -66,3 +66,11 @@ First Header | Second Header
 -------------- | ----------------  
 Content cell 1 | Content cell 2  
 Content column1 | Content colimn2  
+
+#### 체크박스
+- [x] this is a acomplete item  
+- [ ] this is an incomplete item
+- [x] @emntions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+#### 인라인 
