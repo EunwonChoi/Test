@@ -31,8 +31,8 @@
 Format: [이미지 alt명](url 링크)
 
 * 방법2
-<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>
-<img src="/images/deerdog.jpg" width="300px" height="300px" title="px지정" 
+<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>  
+<img src="/images/deerdog.jpg" width="300px" height="300px" title="px지정" alt="deerdog">  
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 
 #### 하이퍼링크
