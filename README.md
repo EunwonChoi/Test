@@ -35,7 +35,9 @@ Format: [이미지 alt명](url 링크)
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 
 #### 하이퍼링크
-[Github](http://github.com"깃허브")
+* [Github](http://github.com"깃허브")  
+* 외부링크: <http://example.com/>  
+* 이메일링크: address@example.com
 
 #### 코드블록
 '''  
