@@ -89,7 +89,7 @@ __|*|*Text|*|*__
 _|_Tom|__
 
 #### 이모지
-* 이모지 참고 사이트 : [Github](http://emoji-cheat-sheet.com)  
+* 이모지 참고 사이트 : [http://emoji-cheat-sheet.com](http://emoji-cheat-sheet.com)  
 GitHub supports emoji!  
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:  
