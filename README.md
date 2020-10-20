@@ -1,7 +1,6 @@
 # Test1
 테스트
 
-## Markdown 사용법
 
 # 헤더 크기(h1)
 ## 헤더 크기(h2)
@@ -30,9 +29,9 @@
 
 #### 이미지 삽입
 1. 방법1
-![Gihub logo](/images/frog.jpg)
+![Github logo](/images/frog.jpg)
 Format: [이미지 alt명](url 링크)
 
 1. 방법2
-<a href="a"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>
+<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
