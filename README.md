@@ -83,10 +83,10 @@ Content column1 | Content colimn2
 ___  
 
 #### 탈출문자
-|*literal asterisks|*  
+\*literal asterisks\*  
 *literal asterisks*  
-__|*|*Text|*|*__  
-_|_Tom|__
+__\*\*Text\*\*__  
+_\_Tom\__
 
 #### 이모지
 * 이모지 참고 사이트 : [http://emoji-cheat-sheet.com](http://emoji-cheat-sheet.com)  
@@ -96,4 +96,6 @@ GitHub supports emoji!
 
 #### 배지 만들기
 * 사이트 : [https://shields.io/](https://shields.io/)  
+* 직접 만든 나의 배지 
+<img src="https://img.shields.io/badge/license-esks-yellow">
 
