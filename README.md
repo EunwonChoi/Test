@@ -29,12 +29,12 @@
 
 ## 5. 이미지 삽입
 * 방법1  
+느낌표[이미지 alt명](url 링크) 사용: **상대경로** 또는 **절대경로** 가능
 ![Github logo](/images/frog.jpg)  
-Format: [이미지 alt명](url 링크)
 
 * 방법2  
+img 태그 사용: **상대경로** 또는 **절대경로** 가능
 <img src="/images/deerdog.jpg" width="300px" height="300px" title="px지정" alt="deerdog">  
-Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 
 ## 6. 하이퍼링크
 * [Github](http://github.com"깃허브")  
