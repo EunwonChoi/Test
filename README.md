@@ -28,10 +28,10 @@
 위 문장에서 두 칸의 공백을 두어 강제 개행한다.
 
 #### 이미지 삽입
-* 방법1)
+* 방법1
 ![Github logo](/images/frog.jpg)
 Format: [이미지 alt명](url 링크)
 
-* 방법2)
-<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" alt="upload images"></a>
+* 방법2
+<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/frog.jpg" alt="sample image"></a>
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
