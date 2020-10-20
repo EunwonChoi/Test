@@ -96,6 +96,5 @@ GitHub supports emoji!
 
 #### 배지 만들기
 * 사이트 : [https://shields.io/](https://shields.io/)  
-* 직접 만든 나의 배지 
-<img src="https://img.shields.io/badge/license-esks-yellow">
+* 직접 만든 나의 배지 <img src="https://img.shields.io/badge/license-esks-yellow">
 
