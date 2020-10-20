@@ -35,3 +35,29 @@ Format: [이미지 alt명](url 링크)
 * 방법2
 <a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
+
+#### 하이퍼링크
+[Github](http://github.com"깃허브")
+
+#### 코드블록
+'''javascript
+function test(){
+ console.log("hello world");
+}
+'''
+
+#### 인용상자
+As Grace Hopper said:
+
+> I've always been more interested.
+> in the future than in the past.
+
+#### 강조
+*This text will be italic*
+_This text will be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+
