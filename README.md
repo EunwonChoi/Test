@@ -54,7 +54,12 @@ public class BootSpringBootApplication {
 As Grace Hopper said:
 
 > I've always been more interested.  
-> in the future than in the past.
+> in the future than in the past.  
+
+> 눈 뜨면 좋은 생각을 할 것  
+>> 시작하기 전에 걱정하지 말 것  
+>>> 나에게도 남에게도  
+>>>> 예쁜 말을 많이 해줄 것
 
 ## 9. 강조
 *This text will be italic*  
