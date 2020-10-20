@@ -26,12 +26,11 @@
 위 문장에서 두 칸의 공백을 두어 강제 개행한다.
 
 #### 이미지 삽입
-* 방법1
-![Github logo](/images/frog.jpg)
+* 방법1  
+![Github logo](/images/frog.jpg)  
 Format: [이미지 alt명](url 링크)
 
-* 방법2
-<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>  
+* 방법2  
 <img src="/images/deerdog.jpg" width="300px" height="300px" title="px지정" alt="deerdog">  
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 
@@ -39,12 +38,12 @@ Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 [Github](http://github.com"깃허브")
 
 #### 코드블록
-'''
+'''  
 public class BootSpringBootApplication {  
  public static void main(String[] args){  
   System.out.println("Hello World");  
  }  
-}
+}  
 '''
 
 #### 인용상자
