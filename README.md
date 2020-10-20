@@ -82,5 +82,15 @@ Content column1 | Content colimn2
 ***  
 ___  
 
-
 #### 탈출문자
+|*literal asterisks|*  
+*literal asterisks*  
+__|*|*Text|*|*__  
+_|_Tom|__
+
+#### 이모지
+GitHub supports emoji!  
+:+1: :sparkles: :camel: :tada:  
+:rocket: :metal: :octocat:  
+
+#### 배지 
