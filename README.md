@@ -40,10 +40,10 @@ Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 [Github](http://github.com"깃허브")
 
 #### 코드블록
-'''javascript
-function test(){
- console.log("hello world");
-}
+'''javascript  
+function test(){  
+ console.log("hello world");  
+}  
 '''
 
 #### 인용상자
@@ -61,3 +61,8 @@ __This will also be bold__
 
 *You **can** combine them*  
 
+#### 테이블
+First Header | Second Header  
+-------------- | ----------------  
+Content cell 1 | Content cell 2  
+Content column1 | Content colimn2  
