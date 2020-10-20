@@ -33,5 +33,5 @@
 Format: [이미지 alt명](url 링크)
 
 * 방법2
-<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/frog.jpg" alt="sample image"></a>
+<a href="#"><img src="https://github.com/EunwonChoi/Test1/images/deerdog.jpg" width="400px" alt="sample image"></a>
 Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
