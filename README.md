@@ -74,3 +74,13 @@ Content column1 | Content colimn2
 - [x] list syntax required (any unordered or ordered list supported)
 
 #### 인라인 
+문단 중간에 'Code'를 넣을 수 있다.  
+예를 들어 'printf("hello world");' 이런 식으로 들어간다.
+
+#### 수평선
+---  
+***  
+___  
+
+
+#### 탈출문자
