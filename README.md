@@ -101,7 +101,7 @@ _\_Tom\__
 * 이모지 참고 사이트 : [http://emoji-cheat-sheet.com](http://emoji-cheat-sheet.com)  
 GitHub supports emoji!  
 :+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat:  
+:rocket: :metal: :octocat: :clap:
 
 ## 16. 배지 만들기
 * 사이트 : [https://shields.io/](https://shields.io/)  
