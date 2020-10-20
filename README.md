@@ -49,15 +49,15 @@ function test(){
 #### 인용상자
 As Grace Hopper said:
 
-> I've always been more interested.
+> I've always been more interested.  
 > in the future than in the past.
 
 #### 강조
-*This text will be italic*
-_This text will be italic_
+*This text will be italic*  
+_This text will be italic_  
 
-**This text will be bold**
-__This will also be bold__
+**This text will be bold**  
+__This will also be bold__  
 
-*You **can** combine them*
+*You **can** combine them*  
 
