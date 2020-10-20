@@ -1,12 +1,4 @@
 #### 헤더 
-```
-# 헤더 크기(h1)
-## 헤더 크기(h2)
-### 헤더 크기(h3)
-#### 헤더 크기(h4)
-##### 헤더 크기(h5)
-###### 헤더 크기(h6)
-```
 
 # 헤더 크기(h1)
 ## 헤더 크기(h2)
@@ -48,13 +40,13 @@ Format: img 태그 사용 - 이미지 경로는 상대경로 또는 절대경로
 * 이메일링크: address@example.com
 
 #### 코드블록
-'''  
+```
 public class BootSpringBootApplication {  
  public static void main(String[] args){  
   System.out.println("Hello World");  
  }  
 }  
-'''
+```
 
 #### 인용상자
 As Grace Hopper said:
