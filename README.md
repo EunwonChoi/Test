@@ -105,5 +105,10 @@ GitHub supports emoji!
 
 ## 16. 배지 만들기
 * 사이트 : [https://shields.io/](https://shields.io/)  
-* 직접 만든 나의 배지 <img src="https://img.shields.io/badge/license-esks-yellow">
+* 직접 만든 나의 배지 <img src="https://img.shields.io/badge/license-esks-yellow">  
+  
+  
+  
+  
+##### 올려놓은 zip파일은 git 연습내용 파일입니다 :smile:
 
